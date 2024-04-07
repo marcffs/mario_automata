@@ -4,3 +4,4 @@
 Evitei colocar **laços** e nao coloquei todas as transicoes; tentei ao maximo colocar as transicoes que originam um estado.
 Cada **estado** seria **um Mario**.
 Se o **Mario** precisa pular para chegar no topo de uma plataforma, coloquei apenas uma **flecha** para indicar isso, em vez de colocar varias para cada estado anterior a este.
+Tentei fazer o **Mario** so andar para frente, pular para frente e abaixar.
